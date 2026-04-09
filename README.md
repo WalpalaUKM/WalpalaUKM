@@ -65,10 +65,10 @@ I'm a passionate developer with experience in modern web technologies. I enjoy c
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WalpalaUKM/WalpalaUKM/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WalpalaUKM/WalpalaUKM/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WalpalaUKM/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WalpalaUKM/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake - Dotted Style" 
-         src="https://raw.githubusercontent.com/WalpalaUKM/WalpalaUKM/output/github-contribution-grid-snake.svg" 
+         src="https://raw.githubusercontent.com/WalpalaUKM/output/github-contribution-grid-snake.svg" 
          style="min-width: 100%; max-width: 100%;">
   </picture>
 </div>
