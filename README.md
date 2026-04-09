@@ -37,15 +37,6 @@ I'm a passionate developer with experience in modern web technologies. I enjoy c
 
 
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=WalpalaUKM&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WalpalaUKM&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-### 🔥 Contribution Overview
-
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
 
   <div style="background:#1F1F1F; padding: 20px; border-radius: 12px; width: 280px; text-align: center; border: 1px solid #333;">
@@ -70,13 +61,15 @@ I'm a passionate developer with experience in modern web technologies. I enjoy c
 
 <br>
 
-### 🐍 GitHub Contribution Snake
+### 🐍 My Contribution Snake (Dotted Grid Style)
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WalpalaUKM/WalpalaUKM/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WalpalaUKM/WalpalaUKM/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/WalpalaUKM/WalpalaUKM/output/github-contribution-grid-snake.svg" style="min-width: 100%;">
+    <img alt="GitHub Contribution Snake - Dotted Style" 
+         src="https://raw.githubusercontent.com/WalpalaUKM/WalpalaUKM/output/github-contribution-grid-snake.svg" 
+         style="min-width: 100%; max-width: 100%;">
   </picture>
 </div>
 
