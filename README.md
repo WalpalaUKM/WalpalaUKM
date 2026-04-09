@@ -41,6 +41,6 @@ I'm a passionate developer with experience in modern web technologies. I enjoy c
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=WalpalaUKM&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ulindu Kavmina&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WalpalaUKM&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
