@@ -44,3 +44,10 @@ I'm a passionate developer with experience in modern web technologies. I enjoy c
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WalpalaUKM&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WalpalaUKM/WalpalaUKM/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WalpalaUKM/WalpalaUKM/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/WalpalaUKM/WalpalaUKM/output/github-contribution-grid-snake.svg" style="min-width: 100%;">
+  </picture>
+</div>
