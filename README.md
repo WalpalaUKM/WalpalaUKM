@@ -44,6 +44,34 @@ I'm a passionate developer with experience in modern web technologies. I enjoy c
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WalpalaUKM&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
+### 🔥 Contribution Overview
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <div style="background:#1F1F1F; padding: 20px; border-radius: 12px; width: 280px; text-align: center; border: 1px solid #333;">
+    <h2 style="margin:0; color:#58A6FF;">408</h2>
+    <p style="margin:5px 0 0 0; color:#8B949E;">Total Contributions</p>
+    <p style="margin:0; font-size:0.85em; color:#6E7681;">Jun 2022 - Present</p>
+  </div>
+
+  <div style="background:#1F1F1F; padding: 20px; border-radius: 12px; width: 280px; text-align: center; border: 1px solid #333;">
+    <h2 style="margin:0; color:#FBBF24;">3</h2>
+    <p style="margin:5px 0 0 0; color:#8B949E;">Current Streak</p>
+    <p style="margin:0; font-size:0.85em; color:#6E7681;">🔥 Jan 3 - Jan 5</p>
+  </div>
+
+  <div style="background:#1F1F1F; padding: 20px; border-radius: 12px; width: 280px; text-align: center; border: 1px solid #333;">
+    <h2 style="margin:0; color:#58A6FF;">10</h2>
+    <p style="margin:5px 0 0 0; color:#8B949E;">Longest Streak</p>
+    <p style="margin:0; font-size:0.85em; color:#6E7681;">Oct 5 - Oct 14, 2023</p>
+  </div>
+
+</div>
+
+<br>
+
+### 🐍 GitHub Contribution Snake
+
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WalpalaUKM/WalpalaUKM/output/github-contribution-grid-snake-dark.svg">
@@ -51,3 +79,5 @@ I'm a passionate developer with experience in modern web technologies. I enjoy c
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/WalpalaUKM/WalpalaUKM/output/github-contribution-grid-snake.svg" style="min-width: 100%;">
   </picture>
 </div>
+
+<br>
