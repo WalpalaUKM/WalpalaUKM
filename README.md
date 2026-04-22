@@ -22,7 +22,7 @@ I'm a passionate developer with experience in modern web technologies. I enjoy c
 **Languages**  
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square)
+<img src="https://img.shields.io/badge/-00599C?logo=c&logoColor=white&style=flat-square" />
 
 **Frontend**  
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
